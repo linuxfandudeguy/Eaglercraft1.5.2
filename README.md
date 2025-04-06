@@ -34,8 +34,4 @@ When you create a new world, it will be a black screen, or you may have spawned 
 </html>
 
 
-<script>window.open(
-  "https://linuxfandudeguy.github.io/Eaglercraft1.5.2/eaglercraft.1.5.2.html",
-  "_blank",
-  "width=1024,height=768,menubar=no,toolbar=no,location=no,status=no,resizable=yes,scrollbars=yes"
-);</script>
+
